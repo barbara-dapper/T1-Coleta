@@ -13,7 +13,7 @@
 
 3- Após a conclusão da etapa 2, rodar a terceira cédula para criar os arquivos .json com as informações das infoboxes;
 
-4- Os arquivos html salvos e .json criados durante a execução do código estão disponíveis atrvés dos links abaixo: 
+4- Os arquivos html salvos e .json criados durante a execução do código estão disponíveis através dos links abaixo: 
 
 - HTMLs: https://drive.google.com/file/d/1wFr6R1EM51MRjzEJJV1nDhacu68_wRNA/view?usp=drive_link
 - Jason: https://drive.google.com/file/d/16D9EWfxMj5m6sptFfgNgpfB-lVftD_D6/view?usp=sharing
