@@ -10,9 +10,11 @@
 
 -> Instruções:
 
-1- Rodar a primeira cédula para importar os recursos necessários 
+1- Rodar a primeira cédula para importar os recursos necessários; 
 
-2- Após a conclusão da etapa 1, rodar a segunda cédula para fazer o download dos arquivos html obtidos no crawling
+2- Após a conclusão da etapa 1, rodar a segunda cédula para fazer o download dos arquivos html obtidos no crawling;
 
-3- Após a conclusão da etapa 2, rodar a terceira cédula para criar os arquivos .json com as informações das infoboxes
+3- Após a conclusão da etapa 2, rodar a terceira cédula para criar os arquivos .json com as informações das infoboxes;
+
+4- Os arquivos estao diponiveis estao em um links em cima das instrucoes.
 
