@@ -5,7 +5,8 @@
 
 -> 2025/01
 
--> Os arquivos zip com os HTMLs estão separados em diferentes zips, pois o Github nao aceita arquivos maiores q 25 MB, então, todos os arquivos HTMLs foram separados em 12 zips diferentes
+- HTMLs: https://drive.google.com/file/d/1wFr6R1EM51MRjzEJJV1nDhacu68_wRNA/view?usp=drive_link
+- Jason: https://drive.google.com/file/d/16D9EWfxMj5m6sptFfgNgpfB-lVftD_D6/view?usp=sharing
 
 -> Instruções:
 
