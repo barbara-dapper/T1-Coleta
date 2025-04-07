@@ -12,3 +12,5 @@
 2- Após a conclusão da etapa 1, rodar a segunda cédula para fazer o download dos arquivos html obtidos no crawling
 
 3- Após a conclusão da etapa 2, rodar a terceira cédula para criar os arquivos .json com as informações das infoboxes
+
+-> Os arquivos zip com os HTMLs estão separados em diferentes zips, pois o Github nao aceita arquivos maiores q 25 MB, então, todos os arquivos HTMLs foram separados em 12 zips diferentes 
